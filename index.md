@@ -4,7 +4,7 @@ For me, one of the best ways to learn something, is to try to teach it.  So here
 
 ## What is Awk
 
-Awk is a test, or data processing programming langage created back in the mid to late 70's by some of the founders of the Unix operating system at Bell labs.  It's really good at processing a text file, line by line. Doing something with the data it finds on that line, and creating output of what it finds or sums up.
+Awk is a text, or data processing programming langage created back in the mid to late 70's by some of the founders of the Unix operating system at Bell labs.  It's really good at processing a text file, line by line. Doing something with the data it finds on that line, and creating output of what it finds or sums up.
 
 ## How to run Awk
 
