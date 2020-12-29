@@ -1,30 +1,9 @@
-## Welcome to GitHub Pages
+# My awk-larning guild
 
-You can use the [editor on GitHub](https://github.com/Dr-WaSaBi/learning-awk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For me, one of the best ways to learn something, is to try to teach it.  So here is me, trying to learn AWK.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is Awk
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
